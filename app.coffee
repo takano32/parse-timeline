@@ -20,4 +20,4 @@ http_get = (request, callback) ->
 
 target = url.parse 'http://twitter.com/takano32'
 
-
+$ = require 'jQuery'
